@@ -1,0 +1,12 @@
+.Rhistory
+.RData
+.Rproj.user/
+
+# Archivos meteorológicos descargados de terceros
+*.nc
+*.nc4
+
+# Salidas generadas por los scripts
+resultados/*.csv
+resultados/*.png
+resultados/*.pdf
